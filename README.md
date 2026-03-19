@@ -2,7 +2,7 @@
 Projeto educativo como fazer um ransoware e keylogger 
 markdown
 
-# 🛡️ Malware Simulation Lab: Ransomware & Keylogger
+#  Malware Simulation Lab: Ransomware & Keylogger
 
 **Foco:** Cibersegurança, Infraestrutura de TI e Resposta a Incidentes.
 
